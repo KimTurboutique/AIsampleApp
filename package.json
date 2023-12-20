@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^16.3.1",
     "inquirer": "^8.2.4",
-    "langchain": "^0.0.210"
+    "langchain": "^0.0.210",
+    "web-streams-polyfill": "^3.2.1"
   }
 }
